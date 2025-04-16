@@ -108,7 +108,7 @@ namespace ÜlesandedApp
 
                     if (pakkumine == arv)
                     {
-                        Console.WriteLine("Õige! 🎉");
+                        Console.WriteLine("Õige!");
                         võit = true;
                         break;
                     }
